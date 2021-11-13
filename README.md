@@ -1,7 +1,5 @@
 <h1>Certificate generator</h1>
 
----
-
 [![Technology][node-image]][node-url] 
 [![Technology][serverless-image]][serverless-url]
 [![Technology][typescript-image]][typescript-url] 
@@ -15,7 +13,6 @@
 [typescript-url]: https://www.typescriptlang.org
 [typescript-image]: https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=TypeScript&logoColor=white
 
-> **Requirements:** NodeJS `lts/fermium (v.14.15.0)`. If you're using [nvm](https://github.com/nvm-sh/nvm), run `nvm use` to ensure you're using the same Node version in local and in your lambda's runtime.
 
 ### Using NPM
 - Run `npm i` to install the project dependencies
