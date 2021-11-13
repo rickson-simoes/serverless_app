@@ -13,6 +13,7 @@
 [typescript-url]: https://www.typescriptlang.org
 [typescript-image]: https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=TypeScript&logoColor=white
 
+> **Requirements:** NodeJS `lts/fermium (v.14.15.0)`.
 
 ### Using NPM
 - Run `npm i` to install the project dependencies
