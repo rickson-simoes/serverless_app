@@ -1,0 +1,7 @@
+service:
+  name: ignitecertificate
+
+plugins:
+  - serverless-webpack
+  - serverless-offline
+  - serverless-dynamodb-local
