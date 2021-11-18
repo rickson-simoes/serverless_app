@@ -6,6 +6,6 @@ export const handle = async (event) => {
     }),
     headers: {
       "Content-Type": "application/json"
-    }
+    },
   }
 }
